@@ -1,5 +1,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesBeltrao&show_icons=true&theme=dracula)
 
+<p><img alinhar="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thalesbeltrao&show_icons=true&locale=en&layout=compact" alt="thalesbeltrao" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=thalesbeltrao&show_icons=true&locale=en" alt="thalesbeltrao" /></p>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
