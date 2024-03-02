@@ -39,4 +39,4 @@ print(carrinho.somar())
 
 # A gregação é uma especialização da associação
 # eu tentei trazer de uma maneira simplificada usando apenas um aquivo
-# para a didatica é interesante
+# para a didatica é interessante
