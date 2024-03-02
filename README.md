@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesBeltrao&show_icons=true&theme=dracula)
-<p><img alinhar="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thalesbeltrao&show_icons=true&layout=compact" alt="thalesbeltrao" />
+<p><img alinhar="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thalesbeltrao&show_icons=true layout=compact" alt="thalesbeltrao" />
 
 
 
