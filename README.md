@@ -2,6 +2,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesBeltrao&hide_progress=true_icons=true&theme=dracula)
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src ="https://github-profile-trophy.vercel.app/?username=thalesbeltrao" alt="thalesbeltrao" /></a> </p>
+
+
 
 
 <div style="display: inline_block"><br>
